@@ -1,1 +1,1 @@
-# Objek-Deteksi-Aksara-Batak-Toba---YoloV3
+# Objek-Deteksi-Aksara-Batak-Toba-YoloV3
